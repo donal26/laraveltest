@@ -15,7 +15,7 @@ class pruevaTest extends TestCase
      */
     public function testProducerFirst()
     {
-        $this->assertTrue(true);
+        $this->assertTrue(false);
         return 'first';
     }
 
